@@ -21,5 +21,7 @@ This repo exists to make the work reviewable, citeable, and improvable — witho
 - /licenses
 
 ## Community
-Questions, ideas, and proposals live here:
-- KindPath Discussions: https://github.com/S4mu3lD4v1d/kindpath-starter/discussions
+Discussion, critique, and evidence-led feedback happens here:
+https://github.com/S4mu3lD4v1d/kindpath-starter/discussions
+
+If you’re suggesting edits to the docs, open a Discussion first, then a PR for the change.
